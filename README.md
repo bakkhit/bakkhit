@@ -7,7 +7,7 @@
 ---
 
 🚀 **Je travaille actuellement sur :**  
-Des projets personnels en **Next.js** et **React**, pour perfectionner mes compétences en conception d’interfaces modernes et dynamiques.  
+Des projets qu'ils soient scolaires ou personnel en **Next.js** et **React**, pour perfectionner mes compétences en conception d’interfaces modernes et dynamiques.  
 
 🤝 **Je cherche à collaborer sur :**  
 Des projets web centrés sur l’**expérience utilisateur**, le **design graphique** et la **cohérence visuelle** d’une marque.  
@@ -22,7 +22,7 @@ Le **Next.js**, la **structuration d’APIs avec Node.js**, et les bases du **ba
 L’**intégration web**, le **design d’interfaces**, ou la manière de transformer une **identité visuelle** en **expérience numérique cohérente**.  
 
 🎮 **Fait amusant :**  
-Je m’inspire souvent d’univers comme *Life is Strange* ou **Pokémon** pour leur esthétique, leurs émotions et leur narration 🎨  
+La narration de certains jeux tel que *Life is Strange* m'inspirent beaucoup 🎨  
 
 ---
 
