@@ -1,5 +1,33 @@
-# 💫 About Me:
-🔭 I'm currently working on:<br>Des projets personnels en Next.js et React, pour affiner mes compétences front-end et créer des expériences interactives.<br><br>🤝 I'm looking to collaborate on:<br>Des projets web modernes et pédagogiques, centrés sur le design et l’accessibilité.<br><br>👥 I'm looking for help with:<br>L’optimisation des performances et les bonnes pratiques frontend/backend.<br><br>🌱 I'm currently learning:<br>Le Next.js, les APIs Node.js, et les bases de la gestion de base de données avec SQL.<br><br>💬 Ask me about:<br>Le design web, l’intégration HTML/CSS, ou comment rendre un site plus fluide et vivant.<br><br>⚡ Fun fact:<br>J’adore les univers narratifs comme Life is Strange 🎮 et les Pokémon 🌿 — l’inspiration est partout !<br><br>✨ Toujours curieux, toujours en train d’apprendre.
+# 👋 Salut, moi c’est Anh !
+
+🎨 Étudiant en **DN MADE Numérique** à [L'École by CCI - Campus Digital d’Annecy](https://www.ecolebycci.fr/)  
+
+💻 Passionné par le **développement front-end** et la **création d’interfaces visuelles** qui traduisent l’identité d’une marque.  
+
+---
+
+🚀 **Je travaille actuellement sur :**  
+Des projets personnels en **Next.js** et **React**, pour perfectionner mes compétences en conception d’interfaces modernes et dynamiques.  
+
+🤝 **Je cherche à collaborer sur :**  
+Des projets web centrés sur l’**expérience utilisateur**, le **design graphique** et la **cohérence visuelle** d’une marque.  
+
+🧩 **Je cherche de l’aide pour :**  
+Approfondir mes connaissances en **optimisation front-end** et en **performances d’affichage**.  
+
+🌿 **J’apprends en ce moment :**  
+Le **Next.js**, la **structuration d’APIs avec Node.js**, et les bases du **back-end** avec **PHP** et **SQL**.  
+
+💬 **Demande-moi à propos de :**  
+L’**intégration web**, le **design d’interfaces**, ou la manière de transformer une **identité visuelle** en **expérience numérique cohérente**.  
+
+🎮 **Fait amusant :**  
+Je m’inspire souvent d’univers comme *Life is Strange* ou **Pokémon** pour leur esthétique, leurs émotions et leur narration 🎨  
+
+---
+
+✨ *Toujours curieux, toujours en train d’apprendre à allier code et créativité.*  
+
 
 
 ## 🌐 Socials:
