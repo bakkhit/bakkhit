@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, moi c’est Anh !</h1>
+<h1 align="center">👋 Salut, moi c’est Anh Hiep!</h1>
 
 <p align="center">
 🎨 Étudiant en <strong>DN MADE Numérique</strong> à 
@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Ce que je fais en ce moment  
-Des projets personnels en **Next.js** et **React**, pour perfectionner mes compétences en conception d’interfaces modernes et dynamiques.  
+Des projets qu'ils soient scolaires ou personnels en ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white) et ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), pour perfectionner mes compétences en conception d’interfaces modernes et dynamiques.  
 
 ---
 
@@ -23,11 +23,14 @@ Approfondir mes connaissances en **optimisation front-end**, en **performances d
 
 ---
 
-### 🌿 J’apprends en ce moment  
-- **Next.js**  
-- **Node.js & APIs**  
-- **PHP / SQL**  
-- Et surtout, comment allier **esthétique** et **efficacité** 💡  
+### 🚧 En cours d’apprentissage
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![API](https://img.shields.io/badge/API%20Design-%2300A3E0.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-%23FF61F6.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -38,13 +41,13 @@ Approfondir mes connaissances en **optimisation front-end**, en **performances d
 
 ---
 
-### 🎮 Fait amusant  
-Je m’inspire souvent d’univers comme *Life is Strange* et **Pokémon** : leurs couleurs, leurs émotions et leurs ambiances nourrissent ma créativité 🌈  
+### 🎮 À savoir  
+Des jeux comme Life is Strange m’inspirent particulièrement par leur narration et leur direction artistique, qui traduisent parfaitement l’émotion à travers le visuel. 
 
 ---
 
 <p align="center">
-✨ <em>Toujours curieux, toujours en train d’apprendre à allier code et créativité.</em> ✨
+✨ <em>Je ne veux pas seulement apprendre, je veux comprendre, évoluer et créer — apprendre est ma plus grande motivation.</em> ✨
 </p>
 
 
