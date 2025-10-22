@@ -1,32 +1,51 @@
-# 👋 Salut, moi c’est Anh Hiep!
+<h1 align="center">👋 Salut, moi c’est Anh !</h1>
 
-🎨 Étudiant en **DN MADE Numérique** à [L'École by CCI - Campus Digital d’Annecy](https://www.ecolebycci.fr/)  
-
-💻 Passionné par le **développement front-end** et la **création d’interfaces visuelles** qui traduisent l’identité d’une marque.  
+<p align="center">
+🎨 Étudiant en <strong>DN MADE Numérique</strong> à 
+<a href="https://www.ecolebycci.fr/">L'École by CCI - Campus Digital d’Annecy</a><br>
+💻 Passionné par le <strong>développement front-end</strong> et la <strong>création d’interfaces visuelles</strong> qui traduisent l’identité d’une marque.
+</p>
 
 ---
 
-🚀 **Je travaille actuellement sur :**  
-Des projets qu'ils soient scolaires ou personnel en **Next.js** et **React**, pour perfectionner mes compétences en conception d’interfaces modernes et dynamiques.  
+### 🚀 Ce que je fais en ce moment  
+Des projets personnels en **Next.js** et **React**, pour perfectionner mes compétences en conception d’interfaces modernes et dynamiques.  
 
-🤝 **Je cherche à collaborer sur :**  
+---
+
+### 🤝 Je cherche à collaborer sur  
 Des projets web centrés sur l’**expérience utilisateur**, le **design graphique** et la **cohérence visuelle** d’une marque.  
 
-🧩 **Je cherche de l’aide pour :**  
-Approfondir mes connaissances en **optimisation front-end** et en **performances d’affichage**.  
+---
 
-🌿 **J’apprends en ce moment :**  
-Le **Next.js**, la **structuration d’APIs avec Node.js**, et les bases du **back-end** avec **PHP** et **SQL**.  
-
-💬 **Demande-moi à propos de :**  
-L’**intégration web**, le **design d’interfaces**, ou la manière de transformer une **identité visuelle** en **expérience numérique cohérente**.  
-
-🎮 **Fait amusant :**  
-La narration de certains jeux tel que *Life is Strange* m'inspirent beaucoup 🎨  
+### 🧩 Je cherche de l’aide pour  
+Approfondir mes connaissances en **optimisation front-end**, en **performances d’affichage**, et en **architecture de code**.  
 
 ---
 
-✨ *Toujours curieux, toujours en train d’apprendre à allier code et créativité.*  
+### 🌿 J’apprends en ce moment  
+- **Next.js**  
+- **Node.js & APIs**  
+- **PHP / SQL**  
+- Et surtout, comment allier **esthétique** et **efficacité** 💡  
+
+---
+
+### 💬 On peut parler de  
+🎨 **Design d’interfaces** – créer des expériences cohérentes et vivantes  
+💻 **Intégration web** – du concept à la maquette  
+⚙️ **Front-end moderne** – Next.js, React, et un soupçon de motion  
+
+---
+
+### 🎮 Fait amusant  
+Je m’inspire souvent d’univers comme *Life is Strange* et **Pokémon** : leurs couleurs, leurs émotions et leurs ambiances nourrissent ma créativité 🌈  
+
+---
+
+<p align="center">
+✨ <em>Toujours curieux, toujours en train d’apprendre à allier code et créativité.</em> ✨
+</p>
 
 
 
