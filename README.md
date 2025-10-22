@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Anh !
+# 👋 Salut, moi c’est Anh Hiep!
 
 🎨 Étudiant en **DN MADE Numérique** à [L'École by CCI - Campus Digital d’Annecy](https://www.ecolebycci.fr/)  
 
